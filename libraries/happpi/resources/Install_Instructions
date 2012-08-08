@@ -1,0 +1,10 @@
+Install Instructions
+
+
+Things needed to use this library:
+
+
+1. You must download cURL and have it installed on the web server.
+
+
+2. You must change your php.ini file and make sure the DLL for cURL is not commented out with a ;
